@@ -1,1 +1,1 @@
-GET http://localhost:3001/api/animals?personalityTraits=goofy
+GET http://localhost:3001/api/animals/1
